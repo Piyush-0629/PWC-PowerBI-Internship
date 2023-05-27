@@ -1,4 +1,4 @@
-# PWC-PowerBI-Internship
+# PWC-PowerBI-Virtual-Internship
 
 In these virtual internship I had the opportunity to work on three projects utilizing Power BI and SQL, which provided me with invaluable insights and hands-on experience.
 
